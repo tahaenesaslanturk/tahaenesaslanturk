@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fiverr as Professional Freelancer.<br>🌱  I have developed projects on Backend, Frontend, and Mobile.<br>⌨️ I am highly interested in Artificial Intelligence.
+🔭 I’m currently working on Fiverr as Professional Freelancer.<br>🌱  I have developed projects on AI, Backend, Frontend, and Mobile.<br>⌨️ I am highly interested in AI, ML.
 
 
 ## 🌐 Socials:
